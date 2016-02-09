@@ -21,6 +21,8 @@ group :assets do
 
   gem 'uglifier', '>= 1.0.3'
 end
+# Using Gibbon to connect with Mailchimp
+gem 'gibbon', '~> 2.2', '>= 2.2.1'
 
 group :development do
   gem 'pry'
