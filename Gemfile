@@ -26,6 +26,11 @@ group :development do
   gem 'pry'
 end
 
+group :production do
+     gem 'pg'
+     gem 'rails_12factor'
+end
+
 gem 'delayed_job_active_record'
 
 gem 'unicorn'
