@@ -25,6 +25,10 @@ end
 group :development do
   gem 'pry'
 end
+#For getting your app to precompile
+gem 'therubyracer'
+
+# For pushing your app up to heroku
 gem 'rails_12factor' 
 
 gem 'delayed_job_active_record'
