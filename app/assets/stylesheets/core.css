@@ -57,7 +57,7 @@ html.home{
 #home .hero .large{
 	font-weight: bold;
 	font-size: 40px;
-	color: #074E6F;
+	color: white;
 	text-transform: uppercase;
 	margin: 85px 0 0 136px;
 	position: relative;
@@ -67,7 +67,7 @@ html.home{
 
 #home .hero .small{
 	font-weight: bold;
-	color: #955F5D;
+	color: white;
 	font-size: 18px;
 	margin: 10px 0 0 115px;
 	line-height: 30px;
@@ -96,7 +96,7 @@ html.home{
 #home .form-wrap .byline{
 	font-size: 15px;
 	text-transform: uppercase;
-	color: #074E6F;
+	color: black;
 	text-align: center;
 	font-weight: bold;
 	letter-spacing: 2px;
@@ -107,7 +107,7 @@ html.home{
 	float: left;
 	font-size: 13px;
 	padding: 8px 0 8px 10px;
-	border: 1px solid #074E6F;
+	border: 1px solid black;
 	width: 256px;
 	outline: none;
 	letter-spacing: 1px;
@@ -115,7 +115,7 @@ html.home{
 
 #home .form-wrap .submit{
 	width: 143px;
-	background: #074E6F;
+	background: black;
 	float: left;
 	height: 37px;
 	line-height: 37px;
